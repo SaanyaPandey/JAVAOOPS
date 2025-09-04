@@ -23,3 +23,4 @@ public class HeirarchicalInheritance{
     s1.employeeSalary(60000.00f);
   }
 }
+
